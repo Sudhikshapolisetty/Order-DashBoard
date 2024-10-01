@@ -30,7 +30,7 @@ The dashboard contains the following features:
   ->Detailed Table (Product Costs, Order Totals, Revenue):
   A detailed table showing the product cost, order quantity, and revenue for each product category.
 
-  #Technical Details
+  # Technical Details
   
   The dashboard was created in Power BI Desktop.
   Data was cleaned and transformed using Power Query before building the visualizations.
